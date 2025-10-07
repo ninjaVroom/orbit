@@ -1,0 +1,33 @@
+{
+  "name": "orbit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node src/lib/tax.check.mts && tsx src/lib/record.check.mts",
+    "db": "node scripts/db.mjs",
+    "payload": "payload",
+    "migrate:create": "payload migrate:create"
+  },
+  "dependencies": {
+    "@payloadcms/db-postgres": "^3.93.0",
+    "@payloadcms/next": "^3.93.0",
+    "@payloadcms/ui": "^3.93.0",
+    "graphql": "^16.11.0",
+    "next": "16.4.6",
+    "payload": "^3.93.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.0",
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "embedded-postgres": "^17.11.0-beta.19",
+    "tsx": "^4.23.15",
+    "typescript": "5.7.2"
+  },
+  "type": "module"
+}

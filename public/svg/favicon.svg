@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="favicon-title favicon-desc">
+<title id="favicon-title">Orbit</title><desc id="favicon-desc">Midnight icon with concentric lavender rings and a lavender satellite.</desc>
+<style>:root{--night:#101326;--raised:#171B33;--well:#1F2440;--cloud:#F8FAFC;--paper:#F1EEF8;--soft:#E6E1F4;--lavender:#C4B5FD;--violet:#8B5CF6;--accent:#7C3AED;--muted:#5B6478;--muted-dark:#9CA3BF;--rule:#DDD8EC;--rule-dark:#2A2F4A;--arc:#4A4470;--white:#FFFFFF;--display:Outfit,'Trebuchet MS',sans-serif;--body:Onest,Arial,sans-serif;--code:'JetBrains Mono',Consolas,monospace}
+text{font-family:var(--body);fill:var(--night);font-size:16px} .head,.button{font-family:var(--display);font-weight:500;letter-spacing:-.03em}.muted{fill:var(--muted)}.light{fill:var(--cloud)}.lavender{fill:var(--lavender)}.night-muted{fill:var(--muted-dark)}.mono{font-family:var(--code)}
+</style><defs><clipPath id="favicon-clip"><rect width="32" height="32" rx="8"/></clipPath></defs>
+<g clip-path="url(#favicon-clip)"><rect x="0" y="0" width="32" height="32" rx="8" fill="var(--night)"/><g fill="none" stroke="var(--lavender)" stroke-width="1.2"><circle cx="16" cy="16" r="10"/><circle cx="16" cy="16" r="5.5"/></g><circle cx="24" cy="10" r="3" fill="var(--lavender)"/></g></svg>
