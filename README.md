@@ -40,6 +40,6 @@ Open the workspace and portal in separate tabs. Ask for changes as the client, r
 
 `src/lib/record.ts` holds the reducer and workflow rules. `src/payload/orbit.ts` handles server actions and filtered reads. `src/payload.config.ts` defines the collections. `src/lib/tax.ts` contains the invoice calculations.
 
-## Prototype
+## Figma design
 
-Figma prototype link pending.
+[View the Figma design](https://www.figma.com/design/k2LmpOIT2veeVPeGJjgm3B/orbit).
